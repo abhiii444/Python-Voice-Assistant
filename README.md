@@ -65,12 +65,33 @@ A smart and interactive **Python-based Voice Assistant** that responds to voice 
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/yourusername/python-voice-assistant.git
-cd python-voice-assistant
+### 1️⃣ Install Dependencies
+pip install -r requirement.txt
 
-### 
+### 2️⃣ Run the Application
+python app.py
+
+---
+
+## 📦 Requirements
+The required Python libraries are listed in requirement.txt:
+- pyttsx3
+- pypiwin32
+- speechRecognition
+- wikipedia
+- pyaudio
+
+---
+
+### How It Works
+- Uses SpeechRecognition to capture voice input
+- Uses pyttsx3 to convert text to speech
+- Uses wikipedia module for information retrieval
+- Uses webbrowser to open websites
+- Uses loops and condition handling for command execution
+
+---
+
 
 
 
