@@ -66,15 +66,16 @@ A smart and interactive **Python-based Voice Assistant** that responds to voice 
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
-      ```bash
+
       git clone https://github.com/abhiii444/python-voice-assistant.git
       cd python-voice-assistant    
 ### 2️⃣ Install Dependencies
-      ```bash 
+     
       pip install -r requirement.txt
 ### 3️⃣ Run the Application
-      ```bash
+      
       python app.py
+      
 
 ---
 
