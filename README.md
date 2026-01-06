@@ -1,22 +1,22 @@
 # Python-Voice-Assistant
 This project is a Python Voice Assistant that listens to user voice commands and performs multiple tasks such as searching Wikipedia, opening websites, playing music, telling jokes, fun facts, motivational quotes, announcing the current time, and executing fun actions like coin flips and dice rolls. 
-# 🎙️ Python Voice Assistant (Pikachu AI)
+#  Python Voice Assistant (Pikachu AI)
 
 A smart and interactive **Python-based Voice Assistant** that responds to voice commands and performs various tasks such as searching Wikipedia, opening websites, playing music, telling jokes, sharing fun facts, and more.
 
 ---
 
-## 📌 Features
+##  Features
 
-### 🔊 Voice Interaction
+###  Voice Interaction
 - Listens to user voice commands
 - Responds using text-to-speech (TTS)
 
-### 🔍 Information Services
+###  Information Services
 - Wikipedia search
 - “Who is”, “What is”, “Tell me about” queries
 
-### 🌐 Website Automation
+###  Website Automation
 - Open YouTube
 - Open Google
 - Open GitHub
@@ -25,33 +25,33 @@ A smart and interactive **Python-based Voice Assistant** that responds to voice 
 - Open Facebook
 - Open Instagram
 
-### 🎭 Entertainment
+###  Entertainment
 - Jokes
 - Fun facts
 - Motivational quotes
 - Plays random songs on YouTube
 
-### 🎲 Fun Utilities
+###  Fun Utilities
 - Flip a coin
 - Roll a dice
 
-### 🕒 Time Utility
+###  Time Utility
 - Announces the current time
 - Greets user based on time of day
 
-### ❌ Exit Commands
+###  Exit Commands
 - Say **exit**, **quit**, **bye**, or **tata** to stop the assistant
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ── app.py
 ── requirement.txt
 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - pyttsx3 (Text-to-Speech)
@@ -63,7 +63,7 @@ A smart and interactive **Python-based Voice Assistant** that responds to voice 
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1️⃣ Clone the Repository
 
@@ -79,7 +79,7 @@ A smart and interactive **Python-based Voice Assistant** that responds to voice 
 
 ---
 
-## 📦 Requirements
+## Requirements
 The required Python libraries are listed in requirement.txt:
 - pyttsx3
 - pypiwin32
